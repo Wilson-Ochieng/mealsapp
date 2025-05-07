@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mealsapp/data/dummy_data.dart';
-import 'package:mealsapp/screens/categories.dart';
-import 'package:mealsapp/screens/meals.dart';
+import 'package:mealsapp/screens/tabs.dart';
 
 void main() {
   runApp(const MyApp());
@@ -24,7 +23,7 @@ class MyApp extends StatelessWidget {
         ),
         scaffoldBackgroundColor: const Color.fromARGB(255, 50, 58, 60),
       ),
-      home: const CategoriesScreen(),
+      home: const  TabsScreen(),
     );
   }
 }
