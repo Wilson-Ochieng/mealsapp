@@ -54,6 +54,8 @@ This project follows a structured branch workflow to implement features incremen
 
 6. **`tabbasednavigation`**:  
    Adds a tab-based navigation system, allowing users to switch between the "Categories" and "Favourites" screens using a bottom navigation bar.
+7. **`statemanagement`**:  
+   Introduces state management to handle dynamic updates, such as toggling favorite meals and reflecting changes across the app.
 
 
 Make sure to check out each branch in the specified order to follow the development process step by step.
