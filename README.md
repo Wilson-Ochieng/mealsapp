@@ -34,4 +34,8 @@ This project follows a structured branch workflow to implement features incremen
 5. **`addnavigationmealdetailscreen`**:  
    Implements navigation to the `MealDetailsScreen`, allowing users to view detailed information about a selected meal.
 
+6. **`tabbasednavigation`**:  
+   Adds a tab-based navigation system, allowing users to switch between the "Categories" and "Favourites" screens using a bottom navigation bar.
+
+
 Make sure to check out each branch in the specified order to follow the development process step by step.
