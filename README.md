@@ -16,24 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Branch Order and Purpose
-# mealsapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Branch Order and Purpose
 
 This project follows a structured branch workflow to implement features incrementally. Below is the order of branches and their purposes:
 
@@ -55,5 +37,10 @@ This project follows a structured branch workflow to implement features incremen
 6. **`tabbasednavigation`**:  
    Adds a tab-based navigation system, allowing users to switch between the "Categories" and "Favourites" screens using a bottom navigation bar.
 
+7. **`statemanagement`**:  
+   Introduces state management to handle dynamic updates, such as toggling favorite meals and reflecting changes across the app.
+
+8. **`sidedrawer`**:  
+   Adds a side drawer to the app, allowing users to navigate to different screens, such as "Meals" and "Filters," using a drawer menu.
 
 Make sure to check out each branch in the specified order to follow the development process step by step.
