@@ -43,4 +43,7 @@ This project follows a structured branch workflow to implement features incremen
 8. **`sidedrawer`**:  
    Adds a side drawer to the app, allowing users to navigate to different screens, such as "Meals" and "Filters," using a drawer menu.
 
+9. **`filter`**:  
+   Adds a filter screen where users can set dietary preferences (e.g., gluten-free, lactose-free, vegan, vegetarian) to filter meals accordingly.
+
 Make sure to check out each branch in the specified order to follow the development process step by step.
