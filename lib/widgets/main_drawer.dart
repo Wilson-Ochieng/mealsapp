@@ -67,7 +67,7 @@ class MainDrawer extends StatelessWidget {
                   .copyWith(color: Theme.of(context).colorScheme.primary),
             ),
             onTap: () {
-              onSelectScreen('Filters');
+              onSelectScreen('filters');
             },
           )
         ],
